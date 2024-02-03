@@ -1,0 +1,103 @@
+2024-01-31 11:41:53.923 [info] Extension host with pid 703 started
+2024-01-31 11:41:53.968 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2024-01-31 11:41:54.013 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/d8ab750c9cd34e1a08fc7d8c35f82988/vscode.lock': Lock acquired.
+2024-01-31 11:41:54.086 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-01-31 11:41:54.209 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-01-31 11:41:54.210 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-01-31 11:41:54.609 [info] Eager extensions activated
+2024-01-31 11:41:54.610 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-01-31 11:41:54.611 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-01-31 11:42:26.010 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'workspaceContains:mspythonconfig.json,pyproject.toml,Pipfile,setup.py,requirements.txt,manage.py,app.py'
+2024-01-31 11:42:26.256 [warning] Using default string since no string found in i18n bundle that has the key: You need to select a Python interpreter before you start debugging.
+
+Tip: click on "Select Interpreter" in the status bar.
+2024-01-31 11:42:26.257 [warning] Using default string since no string found in i18n bundle that has the key: The Python extension now includes Pylance to improve completions, code navigation, overall performance and much more! You can learn more about the update and learn how to change your language server [here](https://aka.ms/new-python-bundle).
+
+Read Pylance's license [here](https://marketplace.visualstudio.com/items/ms-python.vscode-pylance/license).
+2024-01-31 11:42:26.257 [warning] Using default string since no string found in i18n bundle that has the key: Python is unable to parse the code provided. Please
+    turn off Smart Send if you wish to always run line by line or explicitly select code
+    to force run. See [logs](command:{0}) for more details
+2024-01-31 11:42:26.258 [warning] Using default string since no string found in i18n bundle that has the key: The Microsoft Python Language Server has reached end of life. Your language server has been set to the default for Python in VS Code, Pylance.
+
+If you'd like to change your language server, you can learn about how to do so [here](https://devblogs.microsoft.com/python/python-in-visual-studio-code-may-2021-release/#configuring-your-language-server).
+
+Read Pylance's license [here](https://marketplace.visualstudio.com/items/ms-python.vscode-pylance/license).
+2024-01-31 11:42:26.692 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'api', root cause: ms-python.python
+2024-01-31 11:42:34.885 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-01-31 11:43:38.111 [info] ExtensionService#_doActivateExtension batisteo.vscode-django, startup: false, activationEvent: 'onLanguage:python'
+2024-01-31 11:43:38.113 [info] ExtensionService#_doActivateExtension njpwerner.autodocstring, startup: false, activationEvent: 'onLanguage:python'
+2024-01-31 11:43:38.115 [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.intellicode-api-usage-examples, startup: false, activationEvent: 'onLanguage:python'
+2024-01-31 11:43:38.118 [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode, startup: false, activationEvent: 'onLanguage:python'
+2024-01-31 11:43:38.120 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-01-31 11:52:14.839 [error] [ms-python.python] provider FAILED
+2024-01-31 11:52:14.840 [error] TypeError: Cannot read properties of undefined (reading 'data')
+	at /root/.vscode-server/extensions/ms-python.vscode-pylance-2023.12.1/dist/extension.bundle.js:1:139672
+	at _0x1be708 (/root/.vscode-server/extensions/ms-python.vscode-pylance-2023.12.1/dist/extension.bundle.js:1:152856)
+	at async we.provideCompletionItems (/root/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:143:53055)
+2024-01-31 13:52:02.326 [error] [ms-python.python] provider FAILED
+2024-01-31 13:52:02.327 [error] TypeError: Cannot read properties of undefined (reading 'data')
+	at /root/.vscode-server/extensions/ms-python.vscode-pylance-2023.12.1/dist/extension.bundle.js:1:139672
+	at _0x1be708 (/root/.vscode-server/extensions/ms-python.vscode-pylance-2023.12.1/dist/extension.bundle.js:1:152856)
+	at async we.provideCompletionItems (/root/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:143:53055)
+2024-01-31 14:04:10.082 [info] ExtensionService#_doActivateExtension ms-azuretools.vscode-docker, startup: false, activationEvent: 'onLanguage:dockercompose'
+2024-01-31 14:04:10.715 [warning] Using default string since no string found in i18n bundle that has the key: Learn more
+2024-01-31 14:04:10.921 [warning] Using default string since no string found in i18n bundle that has the key: Yes
+2024-01-31 14:04:10.932 [warning] Using default string since no string found in i18n bundle that has the key: No
+2024-01-31 14:04:10.932 [warning] Using default string since no string found in i18n bundle that has the key: Cancel
+2024-01-31 14:04:10.937 [warning] Using default string since no string found in i18n bundle that has the key: Delete
+2024-01-31 14:04:10.937 [warning] Using default string since no string found in i18n bundle that has the key: Don't warn again
+2024-01-31 14:04:10.937 [warning] Using default string since no string found in i18n bundle that has the key: Skip for now
+2024-01-31 14:04:10.938 [warning] Using default string since no string found in i18n bundle that has the key: Upload
+2024-01-31 14:04:10.938 [warning] Using default string since no string found in i18n bundle that has the key: Always upload
+2024-01-31 14:04:10.939 [warning] Using default string since no string found in i18n bundle that has the key: Don't upload
+2024-01-31 14:04:10.940 [warning] Using default string since no string found in i18n bundle that has the key: Report an issue
+2024-01-31 14:04:10.990 [warning] Using default string since no string found in i18n bundle that has the key: "registerUIExtensionVariables" must be called before using the vscode-azureextensionui package.
+2024-01-31 14:04:10.992 [warning] Using default string since no string found in i18n bundle that has the key: This operation is not supported.
+2024-01-31 14:04:11.046 [warning] Using default string since no string found in i18n bundle that has the key: Load More...
+2024-01-31 14:04:11.134 [warning] Using default string since no string found in i18n bundle that has the key: Use a Dockerfile
+2024-01-31 14:04:11.136 [warning] Using default string since no string found in i18n bundle that has the key: Use .NET SDK
+2024-01-31 14:04:11.138 [warning] Using default string since no string found in i18n bundle that has the key: No grouping
+2024-01-31 14:04:11.144 [warning] Using default string since no string found in i18n bundle that has the key: Sort by newest
+2024-01-31 14:04:11.144 [warning] Using default string since no string found in i18n bundle that has the key: Sort alphabetically by label
+2024-01-31 14:04:11.145 [warning] Using default string since no string found in i18n bundle that has the key: Value used to associate containers launched by a 'docker-compose up' command
+2024-01-31 14:04:11.146 [warning] Using default string since no string found in i18n bundle that has the key: Individual Containers
+2024-01-31 14:04:11.146 [warning] Using default string since no string found in i18n bundle that has the key: Others
+2024-01-31 14:04:11.147 [warning] Using default string since no string found in i18n bundle that has the key: Choose a project file
+2024-01-31 14:04:11.148 [warning] Using default string since no string found in i18n bundle that has the key: No C# or F# project files were found in the workspace.
+2024-01-31 14:04:11.148 [warning] Using default string since no string found in i18n bundle that has the key: Choose a package.json file
+2024-01-31 14:04:11.149 [warning] Using default string since no string found in i18n bundle that has the key: No package.json files were found in the workspace.
+2024-01-31 14:04:11.151 [warning] Using default string since no string found in i18n bundle that has the key: Overwrite File
+2024-01-31 14:04:11.161 [warning] Using default string since no string found in i18n bundle that has the key: Skip File
+2024-01-31 14:04:11.163 [warning] Using default string since no string found in i18n bundle that has the key: Cancel
+2024-01-31 14:04:11.184 [warning] Using default string since no string found in i18n bundle that has the key: Redis is an open source key-value store that functions as a data structure server.
+2024-01-31 14:04:11.184 [warning] Using default string since no string found in i18n bundle that has the key: Ubuntu is a Debian-based Linux operating system based on free software.
+2024-01-31 14:04:11.185 [warning] Using default string since no string found in i18n bundle that has the key: The WordPress rich content management system can utilize plugins, widgets, and themes.
+2024-01-31 14:04:11.185 [warning] Using default string since no string found in i18n bundle that has the key: MySQL is a widely used, open-source relational database management system (RDBMS).
+2024-01-31 14:04:11.186 [warning] Using default string since no string found in i18n bundle that has the key: MongoDB document databases provide high availability and easy scalability.
+2024-01-31 14:04:11.186 [warning] Using default string since no string found in i18n bundle that has the key: The official build of CentOS.
+2024-01-31 14:04:11.186 [warning] Using default string since no string found in i18n bundle that has the key: Node.js is a JavaScript-based platform for server-side and networking applications.
+2024-01-31 14:04:11.186 [warning] Using default string since no string found in i18n bundle that has the key: Official build of Nginx.
+2024-01-31 14:04:11.186 [warning] Using default string since no string found in i18n bundle that has the key: The PostgreSQL object-relational database system provides reliability and data integrity.
+2024-01-31 14:04:11.187 [warning] Using default string since no string found in i18n bundle that has the key: ASP.NET is an open source server-side Web application framework
+2024-01-31 14:04:11.587 [warning] Using default string since no string found in i18n bundle that has the key: Containers
+2024-01-31 14:04:11.588 [warning] Using default string since no string found in i18n bundle that has the key: Configure containers explorer
+2024-01-31 14:04:11.590 [warning] Using default string since no string found in i18n bundle that has the key: Networks
+2024-01-31 14:04:11.590 [warning] Using default string since no string found in i18n bundle that has the key: Configure networks explorer
+2024-01-31 14:04:11.592 [warning] Using default string since no string found in i18n bundle that has the key: Images
+2024-01-31 14:04:11.592 [warning] Using default string since no string found in i18n bundle that has the key: Configure images explorer
+2024-01-31 14:04:11.592 [warning] Using default string since no string found in i18n bundle that has the key: Sort by image size
+2024-01-31 14:04:11.593 [warning] Using default string since no string found in i18n bundle that has the key: Generic Registry V2
+2024-01-31 14:04:11.593 [warning] Using default string since no string found in i18n bundle that has the key: Azure
+2024-01-31 14:04:11.594 [warning] Using default string since no string found in i18n bundle that has the key: Azure Container Registry
+2024-01-31 14:04:11.594 [warning] Using default string since no string found in i18n bundle that has the key: Docker Hub
+2024-01-31 14:04:11.595 [warning] Using default string since no string found in i18n bundle that has the key: GitHub
+2024-01-31 14:04:11.595 [warning] Using default string since no string found in i18n bundle that has the key: GitHub Container Registry
+2024-01-31 14:04:11.598 [warning] Using default string since no string found in i18n bundle that has the key: Volumes
+2024-01-31 14:04:11.598 [warning] Using default string since no string found in i18n bundle that has the key: Configure volumes explorer
+2024-01-31 14:04:11.599 [warning] Using default string since no string found in i18n bundle that has the key: Contexts
+2024-01-31 14:04:11.599 [warning] Using default string since no string found in i18n bundle that has the key: Configure Docker Contexts Explorer
+2024-01-31 14:06:17.774 [error] [ms-python.python] provider FAILED
+2024-01-31 14:06:17.775 [error] TypeError: Cannot read properties of undefined (reading 'data')
+	at /root/.vscode-server/extensions/ms-python.vscode-pylance-2023.12.1/dist/extension.bundle.js:1:139672
+	at _0x1be708 (/root/.vscode-server/extensions/ms-python.vscode-pylance-2023.12.1/dist/extension.bundle.js:1:152856)
+	at async we.provideCompletionItems (/root/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:143:53055)

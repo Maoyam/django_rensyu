@@ -1,0 +1,24 @@
+2024-01-31 11:42:27.889 [info] (Client) Pylance async client (2023.12.1) started with python extension (2023.22.1)
+2024-01-31 11:42:28.883 [info] [Info  - 11:42:28 AM] (2372) Pylance language server 2023.12.1 (pyright a78e2b10) starting
+2024-01-31 11:42:28.895 [info] [Info  - 11:42:28 AM] (2372) Server root directory: /root/.vscode-server/extensions/ms-python.vscode-pylance-2023.12.1/dist
+2024-01-31 11:42:28.906 [info] [Info  - 11:42:28 AM] (2372) Starting service instance "root"
+2024-01-31 11:42:29.375 [info] [Info  - 11:42:29 AM] (2372) Setting pythonPath for service "root": "/usr/local/bin/python3"
+2024-01-31 11:42:29.431 [info] [Info  - 11:42:29 AM] (2372) Setting environmentName for service "root": "3.12.1 (グローバル)"
+2024-01-31 11:42:29.722 [info] [Info  - 11:42:29 AM] (2372) Assuming Python version 3.4
+2024-01-31 11:42:30.181 [info] [Info  - 11:42:30 AM] (2372) Found 18 source files
+2024-01-31 11:43:42.938 [info] [Info  - 11:43:42 AM] (2372) [BG(1)] Long operation: checking: /root/myproject/urls.py (2909ms)
+2024-01-31 11:43:42.940 [info] [Info  - 11:43:42 AM] (2372) [BG(1)] Long operation: analyzing: /root/myproject/urls.py (4100ms)
+2024-01-31 11:43:43.631 [info] [Info  - 11:43:43 AM] (2372) [IDX(2)] Long operation: scan packages /root (2645ms)
+2024-01-31 11:43:46.113 [info] [Info  - 11:43:46 AM] (2372) [IDX(2)] Long operation: index execution environment /root (2335ms)
+2024-01-31 11:43:46.166 [info] [Info  - 11:43:46 AM] (2372) [IDX(2)] Long operation: index packages /root (2390ms)
+2024-01-31 14:04:11.221 [info] [Error - 2:04:11 PM] Server process exited with code 0.
+2024-01-31 14:04:11.972 [info] (Client) Pylance async client (2023.12.1) started with python extension (2023.22.1)
+2024-01-31 14:04:13.553 [info] [Info  - 2:04:13 PM] (44815) Pylance language server 2023.12.1 (pyright a78e2b10) starting
+2024-01-31 14:04:13.553 [info] [Info  - 2:04:13 PM] (44815) Server root directory: /root/.vscode-server/extensions/ms-python.vscode-pylance-2023.12.1/dist
+2024-01-31 14:04:13.571 [info] [Info  - 2:04:13 PM] (44815) Starting service instance "root"
+2024-01-31 14:04:13.671 [info] [Info  - 2:04:13 PM] (44815) Setting pythonPath for service "root": "/usr/local/bin/python3"
+2024-01-31 14:04:13.671 [info] [Info  - 2:04:13 PM] (44815) Setting environmentName for service "root": "3.4.5 (グローバル)"
+2024-01-31 14:04:13.964 [info] [Info  - 2:04:13 PM] (44815) Assuming Python version 3.4
+2024-01-31 14:04:14.350 [info] [Info  - 2:04:14 PM] (44815) Found 18 source files
+2024-01-31 14:04:17.715 [info] [Info  - 2:04:17 PM] (44815) [IDX(2)] Long operation: scan packages /root (2033ms)
+2024-01-31 14:04:18.105 [info] [Info  - 2:04:18 PM] (44815) [BG(1)] Long operation: analyzing: /root/crud/models.py (2813ms)
