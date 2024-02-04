@@ -1,0 +1,22 @@
+2024-02-03 04:55:10.813 [info] 実験 'pythonaacf' はアクティブです
+2024-02-03 04:55:10.827 [info] 実験 'pythonRecommendTensorboardExt' はアクティブです
+2024-02-03 04:55:10.840 [info] 実験 'pythonREPLSmartSend' はアクティブです
+2024-02-03 04:55:10.850 [info] 実験 'pythonTerminalEnvVarActivation' はアクティブです
+2024-02-03 04:55:10.861 [info] 実験 'pythonTestAdapter' はアクティブです
+2024-02-03 04:55:10.865 [info] Default formatter is set to null for workspace /root
+2024-02-03 04:55:10.867 [info] Test server listening.
+2024-02-03 04:55:10.959 [info] Python インタープリター パス: /usr/local/bin/python3
+2024-02-03 04:55:10.961 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-02-03 04:55:10.968 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-02-03 04:55:11.003 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-02-03 04:55:11.036 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-02-03 04:55:11.039 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-02-03 04:55:11.061 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-02-03 04:55:11.070 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-02-03 04:55:11.089 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-02-03 04:55:11.503 [info] Send text to terminal: echo /bin/bash
+2024-02-03 04:55:15.937 [info] Shell integration is not working for bash
+2024-02-03 04:55:16.338 [warning] Shell integration is not active, environment activated maybe overriden by the shell.
+2024-02-03 04:55:16.372 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-02-03 04:55:16.374 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-02-03 04:55:27.978 [info] Pylance 言語サーバーを開始しています。

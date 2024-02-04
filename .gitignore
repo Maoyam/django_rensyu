@@ -1,0 +1,5 @@
+.vscode-server
+.cache
+.bash_history
+__pycache__
+db.sqlite3

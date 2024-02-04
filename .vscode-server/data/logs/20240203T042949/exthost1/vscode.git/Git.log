@@ -1,0 +1,16 @@
+2024-02-03 04:30:24.656 [info] ログ レベル: Info
+2024-02-03 04:30:24.750 [info] Git の検証が検出されました: "git"
+2024-02-03 04:30:24.830 [info] "git" から Git "2.39.2" を使用しています
+2024-02-03 04:30:31.373 [info] > git rev-parse --show-toplevel [7277ms]
+2024-02-03 04:31:03.538 [info] > git rev-parse --git-dir --git-common-dir [31721ms]
+2024-02-03 04:31:03.714 [info] Open repository: /root
+2024-02-03 04:31:07.052 [info] > git rev-parse --show-toplevel [1625ms]
+2024-02-03 04:31:07.062 [info] > git config --get commit.template [1510ms]
+2024-02-03 04:31:13.157 [info] > git check-ignore -v -z --stdin [8292ms]
+2024-02-03 04:31:13.707 [info] > git rev-parse --show-toplevel [6542ms]
+2024-02-03 04:31:15.957 [info] > git rev-parse --show-toplevel [1790ms]
+2024-02-03 04:31:16.786 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [9950ms]
+2024-02-03 04:31:19.130 [warning] ENOENT: no such file or directory, open '/root/.git/refs/remotes/origin/main'
+2024-02-03 04:31:19.606 [info] > git rev-parse --show-toplevel [3459ms]
+2024-02-03 04:31:25.614 [info] > git rev-parse refs/remotes/origin/main [6483ms]
+2024-02-03 04:31:25.909 [info] > git rev-parse --show-toplevel [6009ms]

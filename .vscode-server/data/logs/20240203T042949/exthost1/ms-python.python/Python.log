@@ -1,0 +1,17 @@
+2024-02-03 04:31:05.825 [info] 実験 'pythonaacf' はアクティブです
+2024-02-03 04:31:05.991 [info] 実験 'pythonRecommendTensorboardExt' はアクティブです
+2024-02-03 04:31:05.993 [info] 実験 'pythonREPLSmartSend' はアクティブです
+2024-02-03 04:31:06.059 [info] 実験 'pythonTerminalEnvVarActivation' はアクティブです
+2024-02-03 04:31:06.062 [info] 実験 'pythonTestAdapter' はアクティブです
+2024-02-03 04:31:06.065 [info] Default formatter is set to null for workspace /root
+2024-02-03 04:31:06.100 [info] Test server listening.
+2024-02-03 04:31:06.848 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-02-03 04:31:06.904 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-02-03 04:31:06.985 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-02-03 04:31:07.071 [info] Send text to terminal: echo /bin/bash
+2024-02-03 04:31:12.384 [info] Shell integration is not working for bash
+2024-02-03 04:31:12.977 [warning] Shell integration is not active, environment activated maybe overriden by the shell.
+2024-02-03 04:31:16.668 [info] > /usr/local/bin/python3 -I ./.vscode-server/extensions/ms-python.python-2023.22.1/pythonFiles/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2023.22.1/pythonFiles/interpreterInfo.py
+2024-02-03 04:31:19.221 [info] Python インタープリター パス: /usr/local/bin/python3
+2024-02-03 04:31:51.164 [info] Pylance 言語サーバーを開始しています。
+2024-02-03 04:33:30.140 [info] Discover tests for workspace name: root - uri: /root/.vscode-server/extensions/.60c52515-47d3-4e88-93a5-d17a22a905c0/pythonFiles/.vscode/settings.json

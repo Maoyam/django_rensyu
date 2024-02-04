@@ -1,0 +1,10 @@
+2024-02-03 04:31:19.907 [info] (Client) Pylance async client (2023.12.1) started with python extension (2023.22.1)
+2024-02-03 04:31:49.961 [info] [Info  - 4:31:44 AM] (992) Pylance language server 2023.12.1 (pyright a78e2b10) starting
+2024-02-03 04:31:50.284 [info] [Info  - 4:31:50 AM] (992) Server root directory: /root/.vscode-server/extensions/ms-python.vscode-pylance-2023.12.1/dist
+2024-02-03 04:31:50.468 [info] [Info  - 4:31:50 AM] (992) Starting service instance "root"
+2024-02-03 04:31:53.136 [info] [Info  - 4:31:53 AM] (992) Setting pythonPath for service "root": "/usr/local/bin/python3"
+2024-02-03 04:31:53.888 [info] [Info  - 4:31:53 AM] (992) Setting environmentName for service "root": "3.12.1 (グローバル)"
+2024-02-03 04:31:56.907 [info] [Info  - 4:31:56 AM] (992) Assuming Python version 3.11
+2024-02-03 04:32:48.802 [info] [Info  - 4:32:48 AM] (992) Found 18 source files
+2024-02-03 04:32:52.558 [info] [Info  - 4:32:52 AM] (992) [BG(1)] Long operation: parsing: /root/manage.py (2541ms)
+2024-02-03 04:32:53.652 [info] [Info  - 4:32:53 AM] (992) [BG(1)] Long operation: indexing: /root/manage.py (3640ms)
